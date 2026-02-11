@@ -27,5 +27,19 @@ identify revenue trends, profitability drivers, and operational inefficiencies.
 ## Outcome
 Delivered actionable insights to support business decision-making and improve
 overall operational efficiency.
+
+## 📂 Repository Structure
+
+Sales-Profit-Analysis-PowerBI/
+│
+├── Datasets/
+│   └── Copy_of_Superstore_2016.xlsx
+│
+├── Screenshots/
+│   └── Dashboard.jpg
+│
+└── README.md
+
+
 Delivered actionable insights to support business decision-making and improve
 overall operational efficiency.
