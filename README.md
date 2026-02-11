@@ -41,5 +41,3 @@ Sales-Profit-Analysis-PowerBI/
 └── README.md
 
 
-Delivered actionable insights to support business decision-making and improve
-overall operational efficiency.
